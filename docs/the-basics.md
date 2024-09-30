@@ -1,6 +1,6 @@
 ---
-id: the-basics
-title: The Basics
+id: Instagram
+title: InstaGram Follower Free
 sidebar_label: The Basics
 slug: /
 ---
@@ -14,7 +14,7 @@ All major operating systems already have SSH installed, and localhost.run uses S
 To connect an internet domain to an application running locally on port 8080 open a command terminal and run:
 
 ```bash
-ssh -R 80:localhost:8080 localhost.run
+ssh -R 80:localhost:8080 www.instafollow.com
 ```
 
 import { useState } from 'react'
